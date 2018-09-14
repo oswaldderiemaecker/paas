@@ -12,7 +12,7 @@ https://docs.okd.io/latest/minishift/getting-started/quickstart.html
 # Start minishift
 
 ```bash
-minishift start --vm-driver=virtualbox
+minishift start --vm-driver=virtualbox --cpus 6 --memory 8192
 ```
 
 # Usage:

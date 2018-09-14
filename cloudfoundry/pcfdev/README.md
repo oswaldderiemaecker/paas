@@ -2,7 +2,7 @@
 
 https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry-dev/introduction
 
-# install
+# Install
 
 ```bash
 cf dev start -m 8192 -c 6

@@ -1,6 +1,7 @@
 # Documentation
 
 https://rancher.com/docs/os/v1.x/en/quick-start-guide/
+https://rancher.com/docs/rancher/v2.x/en/quick-start-guide/deployment/quickstart-manual-setup/
 
 # Create the docker-machine
 

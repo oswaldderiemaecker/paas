@@ -7,3 +7,7 @@ https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-fou
 ```bash
 cf dev start -m 8192 -c 6
 ```
+
+# Sample Deployment
+
+https://github.com/oswaldderiemaecker/spring-music

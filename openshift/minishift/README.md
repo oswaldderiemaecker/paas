@@ -37,3 +37,5 @@ minishift openshift service nodejs-ex --in-browser
 ```bash
 minishift stop
 ```
+
+/var/lib/minishift/bin/oc cluster up --base-dir /var/lib/minishift/base --public-hostname 192.168.99.100 --routing-suffix 192.168.99.100.nip.io
